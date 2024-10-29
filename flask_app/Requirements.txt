@@ -1,0 +1,6 @@
+flask 
+tensorflow 
+tensorflow_hub 
+numpy 
+opencv-python 
+imageio
