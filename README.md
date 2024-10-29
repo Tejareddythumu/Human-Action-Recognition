@@ -33,7 +33,7 @@ This project is a web application built using Flask that utilizes a pre-trained 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Manoradh03/Human-Action-Recognition.git
+   git clone https://github.com/Tejareddythumu/Human-Action-Recognition.git
    cd flask_app
    ```
 
@@ -87,6 +87,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ### Instructions
 
-1. Replace `Manoradh03` and `Human-Action-Recognition` with your actual GitHub username and repository name.
+1. Replace `Tejareddythumu` and `Human-Action-Recognition` with your actual GitHub username and repository name.
 2. Save the README file as `README.md` in the root of your project directory.
 3. Add, commit, and push your changes to your GitHub repository.
